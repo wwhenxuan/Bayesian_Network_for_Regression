@@ -1,4 +1,4 @@
-# Bayesian Linear Nerual Network for Regressian
+# Bayesian Linear Nerual Network for Regression
 
 <img src="./images/background.jpg" alt="background" style="zoom:45%;" />
 
